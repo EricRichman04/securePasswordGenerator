@@ -1,5 +1,7 @@
 This application is a password generator that will generate a random password based on requirements the user inputs. This application accepts the minimum length of the password, the minimum amount of numbers needed
-and the minimum number of special characters needed. If none are provided it will set the password length to 8 and numbers/special characters required to 0. This application was created to improve my coding skills along with learning about how to generate strong passwords for users. This application works along side the password strength checker application that I also designed and created. 
+and the minimum number of special characters needed. If none are provided it will set the password length to 8 and numbers/special characters required to 0.
+
+*This application was created to improve my coding skills along with learning about how to generate strong passwords for users. This application works along side the password strength checker application that I also designed and created.*
 
 ****AS OF NOW THIS APPLICATION DOES NOT CHECK FOR STRING VALUES ENTERED (A FUTURE UPDATE)****
 
